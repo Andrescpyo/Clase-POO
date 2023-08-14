@@ -6,7 +6,7 @@ using namespace std;
 struct Alumno {
     string nombre;
     int notas [3];
-}
+};
 
 int main(){
     Alumno estudiante;
